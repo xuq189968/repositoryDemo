@@ -1,0 +1,1 @@
+1、使用ul li布局，因为ul本身就有空间，包括li前面的点。所有在ul中加属性 margin:0px; padding:0px;去除空间和点
